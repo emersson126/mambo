@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#eb537a}
+        </style>
+        <clipPath id="clip-path">
+            <path d="M0 0h20v20H0z" class="cls-1"/>
+        </clipPath>
+    </defs>
+    <g id="ico_Circle" class="cls-2">
+        <circle id="ico_Circle-2" cx="10" cy="10" r="10" class="cls-3" data-name="ico_Circle"/>
+    </g>
+</svg>
